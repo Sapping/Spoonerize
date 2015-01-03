@@ -7,6 +7,6 @@ To-do
 ------
 
 * Search for more than just one spoonerism
-* Search in more than just the longest two words
+* <del>Search in more than just the longest two words</del>
 
 This is just a working prototype for the moment.
